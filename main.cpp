@@ -1,5 +1,5 @@
 #include <iostream>
 
-void say_hello(){
+int main(int, char**){
     std::cout << "Hello, from submodule!\n";
 }
